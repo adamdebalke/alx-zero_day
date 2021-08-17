@@ -1,1 +1,1 @@
-#the secon github project from alx holobert school
+#updated Read me from github.com
